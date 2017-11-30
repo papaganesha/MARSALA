@@ -1,0 +1,42 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="testemuse.com.br" resolutions="1x" timestamp="1511908562822">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3998982832" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="46400467" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="436936948" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="85721165" ref="index"/>
+    <file name="webpro.js" crc="4152390327" ref="index"/>
+    <file name="musewpdisclosure.js" crc="204784597" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="marsala (4).jpg" crc="4060323724" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="digdjoi.jpg" crc="4084259363" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagemimpresa.jpg" crc="4232092927" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagem colada 502x502.jpg" crc="486573603" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagem colada 768x768.jpg" crc="149151131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagem colada 400x400.jpg" crc="507510123" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="marsala-tec-favicon.ico" crc="4215889845" ref="index"/>
+    <file name="marsala (4)42x42.jpg" crc="4091118117" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="429746715" seo="true" mt="1511908546692" redirect="true"/>
+</manifest>

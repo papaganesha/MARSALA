@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://testemuse.com.br/index.html</loc>
+    <lastmod>2017-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://testemuse.com.br/images/marsala%20(4).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://testemuse.com.br/images/digdjoi.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://testemuse.com.br/images/imagemimpresa.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://testemuse.com.br/images/imagem%20colada%20502x502.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://testemuse.com.br/images/imagem%20colada%20768x768.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://testemuse.com.br/images/imagem%20colada%20400x400.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://testemuse.com.br/images/marsala%20(4)42x42.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
