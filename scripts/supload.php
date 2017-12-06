@@ -2,7 +2,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Marsala.Upload</title>
+<title>Marsala TEC -- UPLOAD FOTO</title>
+<link rel="stylesheet" type="text/css" href="css/logincss.css"/>
+		<link rel="shortcut icon" href="images/marsala-tec-favicon.ico?crc=4215889845"/>
 </head>
 
 <body>
@@ -37,18 +39,18 @@ if(isset($_FILES['arc']['name']) && $_FILES["arc"]["error"] == 0)
 		}
 		if( @move_uploaded_file( $arc_tmp, $destino  ))
 		{
-			echo "arquivo salvo com sucesso em : <strong>" . $destino . "</strong><br />";
+			echo "<center><h2>Arquivo salvo com sucesso em : <strong>" . $destino . "</strong></h2></center><br />";
 			echo $redirect3332;
 		}
 		else
-			echo "Controle de usuario?<br />";
+			echo "<center><h2>Controle de usuario?</h2></center><br />";
 	}
 	else
-		echo "Apenas imagens \"*.jpg;*.jpeg;*.gif;*.png\"<br />";
+		echo "<center><h2>Apenas imagens \"*.jpg;*.jpeg;*.gif;*.png\"</h2></center><br />";
 }
 else
 {
-	echo "Nenhum arquivo enviado";
+	echo "<center><h2>Nenhum arquivo enviado</h2></center>";
 }
 
 
